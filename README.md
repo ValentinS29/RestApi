@@ -88,6 +88,3 @@ npm start</code></pre>
 </ul>
 
 <hr />
-
-<h2>📜 License</h2>
-<p>MIT License (change this if you want a different license).</p>
